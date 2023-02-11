@@ -13,3 +13,5 @@ var englishNameAbbbCddd = 'gildong hong'
 // 캐밥 케이스
 // 카멜 케이스
 // 스네이크 케이스
+
+var _name = ''
