@@ -7,10 +7,13 @@
 
 /*  */
 
-// Todo 변수면 리펙토링 필요.
-let test = 1
-    // console.log(test)
+// 메모를 남긴다던가.
+// Todo 리펙토링 대상
+// console.log('단일 라인 주석')
 
-let test2 = 1 // 메모를 남기실수도 있습니다.
-let test3 = 2
-let test4 = 3
+// console.log('멀티 라인 주석')
+// console.log('멀티 라인 주석')
+// console.log('멀티 라인 주석')
+// console.log('멀티 라인 주석')
+// console.log('멀티 라인 주석')
+// github 에 commit 을 하라고 권유드렸는데요.
